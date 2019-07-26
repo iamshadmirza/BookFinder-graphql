@@ -5,11 +5,10 @@ const mongoose = require('mongoose');
 
 const app = express();
 
-const connectionUrl = 'mongodb://127.0.0.1:27017';
+const connectionUrl = 'mongodb://127.0.0.1:27017/';
 const databaseName = 'book-store';
 
-mongoose.connect(connectionUrl + '/' + databaseName, { useNewUrlParser: true }, (error, client) => {
-    console.log({ error, client });
+mongoose.connect(connectionUrl + databaseName, { useNewUrlParser: true }, (error, client) => {
     if (error) {
         return console.log('Unable to connect to database');
     }
