@@ -1,6 +1,9 @@
 .App {
-  text-align: center;
+  background-color: aliceblue;
+  padding: 10px;
 }
-body{
-  background-color: gray,
+h1{
+  font-size: 40px;
+  font-family: Verdana; 
+  color: black
 }

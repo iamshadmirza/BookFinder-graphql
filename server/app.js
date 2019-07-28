@@ -2,8 +2,12 @@ const express = require('express');
 const graphqlHTTP = require('express-graphql');
 const schema = require('./schema/schema');
 const mongoose = require('mongoose');
+const cors = require('cors');
 
 const app = express();
+
+//allow cross-origin request
+app.use(cors());
 
 const connectionUrl = 'mongodb://127.0.0.1:27017/';
 const databaseName = 'book-store';
