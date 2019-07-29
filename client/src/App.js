@@ -5,6 +5,8 @@ import './App.css';
 
 //components
 import BookList from './component/BookList';
+import AddBook from './component/AddBook';
+
 
 //apollo client setup
 const client = new ApolloClient({
@@ -15,7 +17,8 @@ function App() {
     <ApolloProvider client={client}>
       <div className="App">
         <h1>Reading List</h1>
-        <BookList></BookList>
+        <BookList />
+        <AddBook />
       </div>
     </ApolloProvider>
   );
