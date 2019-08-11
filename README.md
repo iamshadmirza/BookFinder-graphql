@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> BookFinder finder React App built with React and GraphQL Apollo client on the front-end and Express, MongoDB and GraphQL on back-end. The purpose of this project was to learn the basics of GraphQL.
+> BookFinder is a React App built with React and GraphQL Apollo client on the front-end and Express, MongoDB and GraphQL on the back-end. The purpose of this project was to learn the basics of GraphQL.
 
 ## Screenshot
 !['BookFinder'](https://raw.githubusercontent.com/iamshadmirza/BookFinder-graphql/master/BookFinder.png)
