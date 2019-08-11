@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5d3ba26e6e130a155489ea23"},"name":"Patrick Rothfuss","age":{"$numberInt":"44"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3ba2826e130a155489ea24"},"name":"Brandon Sanderson","age":{"$numberInt":"42"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3ba29f6e130a155489ea25"},"name":"Terry Pratchett","age":{"$numberInt":"66"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d4fe9e44d23fb255c61539d"},"name":"John Green","age":{"$numberInt":"66"},"__v":{"$numberInt":"0"}}

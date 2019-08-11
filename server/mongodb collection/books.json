@@ -1,0 +1,11 @@
+{"_id":{"$oid":"5d3ba4d7156fd22304c719c4"},"name":"The Long Earth","genre":"Sci-Fi","authorId":"5d3ba29f6e130a155489ea25","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3d65e053ed092c2ce17e39"},"name":"Name of the Wind","genre":"Fantasy","authorId":"5d3ba26e6e130a155489ea23","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3d661053ed092c2ce17e3a"},"name":"The Final Empire","genre":"Fantasy","authorId":"5d3ba2826e130a155489ea24","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3d662553ed092c2ce17e3b"},"name":"The Hero of Ages","genre":"Fantasy","authorId":"5d3ba2826e130a155489ea24","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3d665253ed092c2ce17e3c"},"name":"The Colour of Magic","genre":"Fantasy","authorId":"5d3ba29f6e130a155489ea25","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3d665d53ed092c2ce17e3d"},"name":"The Light Fantastic","genre":"Fantasy","authorId":"5d3ba29f6e130a155489ea25","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3f21d50fe1392018f325b0"},"name":"Hogfather","genre":"Fantacy","authorId":"5d3ba29f6e130a155489ea25","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3f22050fe1392018f325b1"},"name":"Thud","genre":"Fantacy","authorId":"5d3ba29f6e130a155489ea25","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d3f22890fe1392018f325b3"},"name":"The Long Universe","genre":"Sci-Fi","authorId":"5d3ba29f6e130a155489ea25","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d4fea444d23fb255c61539e"},"name":"Turtles all the way down","genre":"Fiction","authorId":"5d4fe9e44d23fb255c61539d"}
+{"_id":{"$oid":"5d4fea724d23fb255c61539f"},"name":"Looking for Alaska","genre":"Fiction","authorId":"5d4fe9e44d23fb255c61539d"}

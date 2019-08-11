@@ -9,6 +9,7 @@ function AddBook(props) {
 
     const onSubmitForm = (e) => {
         e.preventDefault();
+        if (name === '' || genre === '' || authorId === '') { return; }
         props.addBookMutation({
             variables: {
                 name,

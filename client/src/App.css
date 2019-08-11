@@ -49,10 +49,11 @@ form select, form input{
 }
 form button{
     color: #fff;
+    width: 50px;
+    height: 50px;
     font-size: 2em;
     background: #AD1457;
     border: 0;
-    padding: 10 10;
     border-radius: 50%;
     cursor: pointer;
     position: absolute;
